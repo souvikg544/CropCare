@@ -1,6 +1,6 @@
 # CropCare
 
-![Crop Image]<img src="https://fullpath/assets/yourgif.gif](https://user-images.githubusercontent.com/63863911/182625506-c10c5dcb-c7c7-4072-b160-7fb7fc0e01f8.jpg" width="400" height="400">
+![Crop Image]<img src="https://user-images.githubusercontent.com/63863911/182625506-c10c5dcb-c7c7-4072-b160-7fb7fc0e01f8.jpg" width="400" height="400">
 
                                                                                                                                       
 In India while many of the farmers have left farming in search for better earning, newbie farmers are using technological advancements
