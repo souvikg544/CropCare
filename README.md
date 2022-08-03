@@ -5,12 +5,15 @@
                                                                                                                                       
 In India while many of the farmers have left farming in search for better earning, newbie farmers are using technological advancements
 to understand and care for crops.
+
+# CNN Model
+
 Cropcare is trained on 16000 crop images from tomato,potato and others to classify them according to their disease. The convolutional neural network 
-trained model achieves an accuracy of 96.78% on test data. Do view the notebook for the training process and model architecture. 
+trained deep learning model achieves an accuracy of 96.78% on test data. Do view the notebook for the training process and model architecture. 
 
 ## Implementation on Streamlit
 
 The model is converted to a h5 file and implemented using streamlit.
-[https://cropcare.herokuapp.com/](https://cropcare.herokuapp.com/)
+The webpage is deployed on heroku . Do have a look .[https://cropcare.herokuapp.com/](https://cropcare.herokuapp.com/)
 
 If you like my work , do star my repo ! 
